@@ -9,3 +9,5 @@
 ### Water Purification and Sterilization
 
 ### Battery Workforce Challenge 
+/images/
+
