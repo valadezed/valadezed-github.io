@@ -1,5 +1,4 @@
-YAML
-
+Capstone
 ---
 layout: default
 title: Capstone
