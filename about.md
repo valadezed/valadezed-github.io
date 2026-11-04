@@ -1,4 +1,4 @@
-[Home](/) | [About](/about.md) | [Setup](/setup.md)
+[Home](/) | [About](/about.md) | [Projects](/project.md)
 
 Hello my name is Edward Valadez. I recently graduated with a Bachelor's of Science
 in Mechanical Engineering, and have created this website to showcase my projects over
