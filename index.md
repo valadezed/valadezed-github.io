@@ -1,4 +1,2 @@
-layout: page
-title: "Home"
-permalink: /https://valadezed.github.io/home/
-
+layout: default
+[Home](/) | [About](/about.md) | [Projects](/projects.md)
