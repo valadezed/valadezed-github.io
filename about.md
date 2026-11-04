@@ -3,7 +3,7 @@ YAML
 ---
 layout: default
 title: about
-permalink: /about/
+nav_order: 2
 ---
 
 Edward Valadez
