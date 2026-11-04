@@ -1,5 +1,4 @@
-YAML
-
+HOME
 ---
 layout: default
 title: Home
