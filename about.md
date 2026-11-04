@@ -1,8 +1,6 @@
 YAML
-
 ---
 layout: default
-title: about
+title: About
 permalink: /about/
-
 ---
