@@ -2,6 +2,7 @@ YAML
 
 ---
 layout:default
-title: Contact
-permalink: /contact/
+title: Projects
+has_children: true
+nav_order: 3
 ---
