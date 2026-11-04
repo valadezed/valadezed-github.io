@@ -1,5 +1,4 @@
-YAML 
-
+Projects 
 ---
 layout:default
 title: Projects
